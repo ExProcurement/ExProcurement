@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=YangxGeon%20GitHub&fontSize=90&fontColor=111111)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=JaeMyung Choi%20GitHub&fontSize=90&fontColor=111111)
 
 # 👋 2024 Goal 👋
-- 🤗 **Soaking Jaehwan Lee into cement** ✅
+- 🤗 **Soaking Jaehwan Lee and SeungGun Yang into cement** ✅
 - 🌱 **Improving Projects**
 - 🌹 **Code with elegance, not just functionality**
 - 💖 **Stay humble, stay hungry**
