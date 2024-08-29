@@ -1,13 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=JaeMyung's%20GitHub&fontSize=90&fontColor=111111)
 
 # 👋 2024 Goal 👋
-- 🤗 **Soaking Jaehwan Lee and SeungGun Yang into cement** ✅
-- 🌱 **Improving Projects**
-- 🌹 **Code with elegance, not just functionality**
-- 💖 **Stay humble, stay hungry**
+- 🤗 ** 알고리즘 백준 실버, 프로그래머스 Lv2 달성 ** ✅
+- 🌱 ** 다양한 프로젝트 경험 쌓기 **
+- 🌹 ** 보다 가독성 있고 효율적인 코드로 개선하기 **
+- 💖 ** Stay humble, stay hungry **
 
 # 🛠 Tech Stack 🛠
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=Java&logoColor=white)
@@ -25,9 +24,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 [![ExProcurement's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExProcurement&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -39,4 +35,5 @@
 --- 
 
 ### [ 2024 ]
->2024.05 ~ 중고물품 경매/판매 사이트 '히히낙찰' 프로젝트
+>2024.05 ~ 2024.07 중고물품 경매/판매 사이트 '히히낙찰' 프로젝트
+>2024.07 ~ 2024.09 게임으로 즐기는 소비혜택, SOLoPLAY
