@@ -1,6 +1,3 @@
-# 최재명
-## 저는 서울 9반 최재명 입니다.
-
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=JaeMyung's%20GitHub&fontSize=90&fontColor=111111)
 
 # 👋 2024 Goal 👋
