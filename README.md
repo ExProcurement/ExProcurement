@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=JaeMyung's%20GitHub&fontSize=90&fontColor=111111)
 
-# 👋 2024 Goal 👋
-- 🤗 ** 알고리즘 백준 실버, 프로그래머스 Lv2 달성 ** ✅
+# 👋 2025 Goal 👋
+- 🤗 ** 알고리즘 백준 골드, 프로그래머스 Lv3 달성 ** ✅
 - 🌱 ** 다양한 프로젝트 경험 쌓기 **
 - 🌹 ** 보다 가독성 있고 효율적인 코드로 개선하기 **
 - 💖 ** Stay humble, stay hungry **
